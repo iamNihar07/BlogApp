@@ -4,9 +4,11 @@
     <div class="ui top attached">
         <div class="item">
             <img class="ui centered rounded image" src="<%= blog.image %>" alt="">
+            <br>
             <div class="content">
-                <span><%= blog.created.toDateString() %></span>
+                <em><span class="ui right aligned container"><%= blog.created.toDateString() %></span></em>
             </div>
+            <hr>
             <div class="description" id="ending">
                 <p><%- blog.body %></p>
             </div> 
