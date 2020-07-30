@@ -1,5 +1,6 @@
 # [Blog App](https://blogapp-nihar.herokuapp.com// "Visit the web app")
-A full stack RESTful Blog Web App with CRUD functionality, styled with Semantic UI and connected with MongoDB at the backend
+#### A full stack RESTful Blog Web App with CRUD functionality, styled with Semantic UI and connected with MongoDB at the backend
+---
 
 ### Functionality
 
